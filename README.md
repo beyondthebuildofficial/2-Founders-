@@ -1,4 +1,4 @@
-# 2 Founders — agentic workflows & AI automation
+# 2 Founders (agentic workflows & AI automation )
 
 The 2 Founders marketing site is a static HTML/CSS/JavaScript site with a small Vercel Edge Function for country detection. It introduces two ways to work with the studio: custom automation builds and focused, one-off, recurring, or usage-based services.
 
